@@ -1,6 +1,6 @@
 {
   "name": "sass-lint-vue",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Command line tool to lint Sass styles in Vue single file components.",
   "keywords": [
     "lint",
@@ -10,15 +10,12 @@
     "scss",
     "vue"
   ],
-  "homepage": "https://github.com/sourceboat/sass-lint-vue",
-  "bugs": "https://github.com/sourceboat/sass-lint-vue/issues",
-  "author": "Sourceboat <info@sourceboat.com>",
-  "contributors": [
-    "Phil-Bastian Berndt <me@pbb.io> (https://pbb.io/)"
-  ],
+  "homepage": "https://github.com/gamichalski/sass-lint-vue",
+  "bugs": "https://github.com/gamichalski/sass-lint-vue/issues",
+  "author": "Michalski <gamichalski@gmail.com>",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/sourceboat/sass-lint-vue",
+    "url": "https://github.com/gamichalski/sass-lint-vue",
     "type": "git"
   },
   "main": "lib/linter.js",
